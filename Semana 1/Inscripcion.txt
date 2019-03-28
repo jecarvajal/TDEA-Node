@@ -1,0 +1,3 @@
+El estudiante: Juancho con cedula: 1234
+se ha inscrito a el curso con ID: 2 nombrado: Fundamentos PHP
+duracion de: 1 Meses y valor de: 250000
